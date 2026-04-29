@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "SaltySmp.aternos.me",
-    "port": 28831,
-    "version": "1.21.1"
+    "port":28831,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
